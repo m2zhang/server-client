@@ -9,3 +9,8 @@ Data Management: The server handles reading from and writing to a data store, en
 Socket Programming: Communication between clients and the server is handled via TCP/IP sockets, ensuring reliable data exchange.
 
 Overall, this project demonstrates basic concepts of network programming, concurrency, and real-time data management in a UNIX/Linux environment.
+
+
+-- 
+
+Done in accordance with these guidelines: https://www.cs.utoronto.ca/~trebla/CSCB09-2024-Summer/a4/cscb09-2024-5-a4.html
